@@ -32,3 +32,10 @@ You can also use the Layman tool to add and sync the repository. Execute the fol
 ```sh
 <superuser> layman -o https://raw.githubusercontent.com/tanvir/portage-overlay/dev/repository.xml -f -a tanvir
 ```
+
+## References
+
+- [Gentoo Linux](https://www.gentoo.org)
+- [Portage](https://wiki.gentoo.org/wiki/Portage)
+- [Gentoo Overlays](https://wiki.gentoo.org/wiki/Project:Overlays)
+- [Zugaina - Gentoo Portage Overlays](https://gpo.zugaina.org)
