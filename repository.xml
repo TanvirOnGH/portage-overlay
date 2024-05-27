@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo priority="10" quality="experimental" status="unofficial">
+    <name><![CDATA[tanvir]]></name>
+    <description lang="en"><![CDATA[Tanvir's personal Portage Overlay for Gentoo Linux based systems ]]></description>
+    <homepage>https://github.com/TanvirOnGH/portage-overlay</homepage>
+    <owner type="person">
+      <email>tanvir.ahmed.tonoy@proton.me</email>
+      <name><![CDATA[Tanvir]]></name>
+    </owner>
+    <source type="git">https://github.com/TanvirOnGH/portage-overlay.git</source>
+    <feed>https://github.com/TanvirOnGH/portage-overlay/commits/dev.atom</feed>
+  </repo>
+</repositories>
