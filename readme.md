@@ -2,9 +2,8 @@
 
 Personal [Portage Overlay](https://wiki.gentoo.org/wiki/Project:Overlays) for [Gentoo](https://www.gentoo.org) Linux based systems.
 
-## Note
-
-Currently, it's a boilerplate repository.
+> [!NOTE]  
+> Currently, it's a boilerplate repository.
 
 ## Using This Repository
 
