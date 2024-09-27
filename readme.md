@@ -44,6 +44,10 @@ You can also use the Layman tool to add and sync the repository. Execute the fol
 
 Or, simply from the official list: `<superuser> layman -a tanvir`.
 
+### Zugaina
+
+Find my packages/overlay at: [gpo.zugaina.org/Overlays/tanvir](https://gpo.zugaina.org/Overlays/tanvir)
+
 ## References
 
 - [Gentoo Linux](https://www.gentoo.org)
